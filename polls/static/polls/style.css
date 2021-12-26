@@ -1,0 +1,8 @@
+li a {
+    color: white;
+}
+
+body {
+    background: lightgrey url("images/elmo.jpg") no-repeat;
+    background-size: contain;
+}
