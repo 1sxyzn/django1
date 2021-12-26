@@ -1,5 +1,9 @@
 # django1
 django tutorial for learning  
+
+
+**Creating a Basic Voting Application Using Django**  
+> https://docs.djangoproject.com/ko/4.0/intro/  
 > https://www.youtube.com/playlist?list=PLi4xPOplIq7d1vDdLBAvS5PmQR-p6KwUz
 
 # 참고
